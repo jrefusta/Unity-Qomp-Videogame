@@ -21,12 +21,12 @@ Download the project and execute the following executable file: "Qomp.exe".
 
 ## Implemented functionalities
 
-- Four levels with specific stetic each.
+- Five levels with specific stetic each.
 - You only control key is the spacebar, to change the direction where the cube jumps, up or down.
 - Key/Door mechanics: There are keys that opens determinated doors.
 - Lever mechanics: Levers are used to open determinated doors when the cube collides to one of them.
 - Snake mechanics: Each time a specific number of keys is caught, a trace comes out that if you touch it you will die.
-- You can jump between levels by pressing the 1 2 3 4 keys to reach the corresponding level.
+- You can jump between levels by pressing the 1 2 3 4 5 keys to reach the corresponding level.
 - By pressing the key 'G' the God Mode is activated. Then, the player wont die even if is colliding with enemies.
 
 ![](https://github.com/jrefusta/Unity-Qomp-Videogame/blob/main/gifs/gif3.gif)
